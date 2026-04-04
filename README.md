@@ -32,7 +32,7 @@ A beginner-friendly addon for customizing Kobo eReaders.
   <tbody>
     <tr>
       <td align="center" colspan="2">
-        <img height="600" alt="image" src="./resources/screenshots/demo-before.png" /><img height="600" alt="image" src="./resources/screenshots/demo-after.png" />
+        <img height="500" alt="image" src="./resources/screenshots/demo-before.png" /><img height="500" alt="image" src="./resources/screenshots/demo-after.png" />
       </td>
     </tr>
     <tr>
