@@ -1,5 +1,6 @@
-## original project by redphx, this repo is a fix for the issue described [here](https://github.com/shermp/NickelClock/pull/28) :)
+### original project by redphx, this repo is a fix for the issue described [here](https://github.com/shermp/NickelClock/pull/28) :)
 
+# MERGED IN [1.1.1](https://github.com/redphx/kobo-tweaks/releases/tag/v1.1.1)
 ---
 
 # Kobo Tweaks
